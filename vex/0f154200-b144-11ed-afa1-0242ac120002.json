@@ -1,7 +1,7 @@
 {
   "@context": "https://openvex.dev/ns",
   "@id": "https://openvex.dev/docs/docker/vex-0f154200-b144-11ed-afa1-0242ac120002",
-  "author": "Christian Dupuis <christian.dupuis@docker.com>",
+  "author": "Christian Dupuis",
   "role": "Document Creator",
   "timestamp": "2023-02-20T18:02:03-06:00",
   "version": "1",
