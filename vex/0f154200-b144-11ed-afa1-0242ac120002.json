@@ -14,7 +14,7 @@
         "pkg:docker/debian@sha256:749383b0a6d17fb745d397b108d2ea38b5832226586b25c9f5cf7fcde24458ab"
       ],
       "subcomponents": [
-        "pkg:deb/debian/shadow@1:4.8.1-1?os_distro=bullseye&os_name=debian&os_version=1"
+        "pkg:deb/debian/shadow@1:4.8.1-1?os_distro=bullseye&os_name=debian&os_version=11"
       ],
       "status": "not_affected",
       "impact_statement": "Debian builds are compiled using -with-libpam and explicitly passing --disable-account-tools-setuid."
