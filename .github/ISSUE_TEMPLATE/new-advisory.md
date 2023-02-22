@@ -11,11 +11,7 @@ this database.
 
 <!-- atomist-advisory:start -->
 
-id: atomist-skills/A-2023-{{increment}} 
-cve ids:   
-cwe ids: 
-severity: 
-summary: 
-details: 
+id: atomist-skills/A-2023-{{increment}} cve ids:  
+cwe ids: severity: summary: details:
 
 <!-- atomist-advisory:end -->
