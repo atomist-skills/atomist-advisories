@@ -7,7 +7,9 @@
   "statements": [
     {
       "vulnerability": "CVE-2019-12900",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/bzip2@1.0.6-r6?os_name=alpine&os_version=3.8"
       ],
@@ -17,7 +19,9 @@
     },
     {
       "vulnerability": "CVE-2022-45143",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55"
       ],
@@ -27,7 +31,9 @@
     },
     {
       "vulnerability": "CVE-2021-43980",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55",
         "pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.55"
@@ -38,7 +44,9 @@
     },
     {
       "vulnerability": "CVE-2019-2201",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/libjpeg-turbo@1.5.3-r3?os_name=alpine&os_version=3.8"
       ],
@@ -48,7 +56,9 @@
     },
     {
       "vulnerability": "CVE-2018-14498",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/libjpeg-turbo@1.5.3-r3?os_name=alpine&os_version=3.8"
       ],
@@ -58,7 +68,9 @@
     },
     {
       "vulnerability": "CVE-2019-5094",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/e2fsprogs@1.44.2-r0?os_name=alpine&os_version=3.8"
       ],
@@ -68,7 +80,9 @@
     },
     {
       "vulnerability": "CVE-2019-5188",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/e2fsprogs@1.44.2-r0?os_name=alpine&os_version=3.8"
       ],
@@ -78,7 +92,9 @@
     },
     {
       "vulnerability": "CVE-2018-1000654",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/libtasn1@4.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -88,7 +104,9 @@
     },
     {
       "vulnerability": "CVE-2018-20217",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/krb5@1.15.3-r0?os_name=alpine&os_version=3.8"
       ],
@@ -98,7 +116,9 @@
     },
     {
       "vulnerability": "CVE-2020-14578",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -108,7 +128,9 @@
     },
     {
       "vulnerability": "CVE-2020-2803",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -118,7 +140,9 @@
     },
     {
       "vulnerability": "CVE-2020-14593",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -128,7 +152,9 @@
     },
     {
       "vulnerability": "CVE-2019-2978",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -138,7 +164,9 @@
     },
     {
       "vulnerability": "CVE-2019-2981",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -148,7 +176,9 @@
     },
     {
       "vulnerability": "CVE-2020-2805",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -158,7 +188,9 @@
     },
     {
       "vulnerability": "CVE-2019-2698",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -168,7 +200,9 @@
     },
     {
       "vulnerability": "CVE-2019-2945",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -178,7 +212,9 @@
     },
     {
       "vulnerability": "CVE-2019-2992",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -188,7 +224,9 @@
     },
     {
       "vulnerability": "CVE-2019-2949",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -198,7 +236,9 @@
     },
     {
       "vulnerability": "CVE-2020-14556",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -208,7 +248,9 @@
     },
     {
       "vulnerability": "CVE-2020-2659",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -218,7 +260,9 @@
     },
     {
       "vulnerability": "CVE-2019-2602",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -228,7 +272,9 @@
     },
     {
       "vulnerability": "CVE-2020-2757",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -238,7 +284,9 @@
     },
     {
       "vulnerability": "CVE-2019-2987",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -248,7 +296,9 @@
     },
     {
       "vulnerability": "CVE-2019-2842",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -258,7 +308,9 @@
     },
     {
       "vulnerability": "CVE-2018-11212",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -268,7 +320,9 @@
     },
     {
       "vulnerability": "CVE-2018-16435",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -278,7 +332,9 @@
     },
     {
       "vulnerability": "CVE-2019-2988",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -288,7 +344,9 @@
     },
     {
       "vulnerability": "CVE-2019-2989",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -298,7 +356,9 @@
     },
     {
       "vulnerability": "CVE-2020-14803",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -308,7 +368,9 @@
     },
     {
       "vulnerability": "CVE-2018-3214",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -318,7 +380,9 @@
     },
     {
       "vulnerability": "CVE-2020-2781",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -328,7 +392,9 @@
     },
     {
       "vulnerability": "CVE-2019-2958",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -338,7 +404,9 @@
     },
     {
       "vulnerability": "CVE-2020-14798",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -348,7 +416,9 @@
     },
     {
       "vulnerability": "CVE-2020-14781",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -358,7 +428,9 @@
     },
     {
       "vulnerability": "CVE-2020-14779",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -368,7 +440,9 @@
     },
     {
       "vulnerability": "CVE-2020-2583",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -378,7 +452,9 @@
     },
     {
       "vulnerability": "CVE-2018-3139",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -388,7 +464,9 @@
     },
     {
       "vulnerability": "CVE-2018-3183",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -398,7 +476,9 @@
     },
     {
       "vulnerability": "CVE-2018-13785",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -408,7 +488,9 @@
     },
     {
       "vulnerability": "CVE-2018-3169",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -418,7 +500,9 @@
     },
     {
       "vulnerability": "CVE-2020-14792",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -428,7 +512,9 @@
     },
     {
       "vulnerability": "CVE-2020-2755",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -438,7 +524,9 @@
     },
     {
       "vulnerability": "CVE-2019-2983",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -448,7 +536,9 @@
     },
     {
       "vulnerability": "CVE-2020-14583",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -458,7 +548,9 @@
     },
     {
       "vulnerability": "CVE-2019-2769",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -468,7 +560,9 @@
     },
     {
       "vulnerability": "CVE-2018-3149",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -478,7 +572,9 @@
     },
     {
       "vulnerability": "CVE-2019-2964",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -488,7 +584,9 @@
     },
     {
       "vulnerability": "CVE-2019-2745",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -498,7 +596,9 @@
     },
     {
       "vulnerability": "CVE-2018-3180",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -508,7 +608,9 @@
     },
     {
       "vulnerability": "CVE-2019-2973",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -518,7 +620,9 @@
     },
     {
       "vulnerability": "CVE-2019-2422",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -528,7 +632,9 @@
     },
     {
       "vulnerability": "CVE-2020-2754",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -538,7 +644,9 @@
     },
     {
       "vulnerability": "CVE-2020-14797",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -548,7 +656,9 @@
     },
     {
       "vulnerability": "CVE-2019-2766",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -558,7 +668,9 @@
     },
     {
       "vulnerability": "CVE-2020-2601",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -568,7 +680,9 @@
     },
     {
       "vulnerability": "CVE-2020-2593",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -578,7 +692,9 @@
     },
     {
       "vulnerability": "CVE-2020-2654",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -588,7 +704,9 @@
     },
     {
       "vulnerability": "CVE-2019-7317",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8",
         "pkg:alpine/libpng@1.6.34-r1?os_name=alpine&os_version=3.8"
@@ -599,7 +717,9 @@
     },
     {
       "vulnerability": "CVE-2019-2894",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -609,7 +729,9 @@
     },
     {
       "vulnerability": "CVE-2019-2684",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -619,7 +741,9 @@
     },
     {
       "vulnerability": "CVE-2019-2426",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -629,7 +753,9 @@
     },
     {
       "vulnerability": "CVE-2020-2800",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -639,7 +765,9 @@
     },
     {
       "vulnerability": "CVE-2019-2962",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -649,7 +777,9 @@
     },
     {
       "vulnerability": "CVE-2019-2975",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -659,7 +789,9 @@
     },
     {
       "vulnerability": "CVE-2020-2830",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -669,7 +801,9 @@
     },
     {
       "vulnerability": "CVE-2020-14577",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -679,7 +813,9 @@
     },
     {
       "vulnerability": "CVE-2020-2604",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -689,7 +825,9 @@
     },
     {
       "vulnerability": "CVE-2019-2816",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -699,7 +837,9 @@
     },
     {
       "vulnerability": "CVE-2020-2756",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -709,7 +849,9 @@
     },
     {
       "vulnerability": "CVE-2020-14796",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -719,7 +861,9 @@
     },
     {
       "vulnerability": "CVE-2020-14782",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -729,7 +873,9 @@
     },
     {
       "vulnerability": "CVE-2020-14581",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -739,7 +885,9 @@
     },
     {
       "vulnerability": "CVE-2020-2590",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -749,7 +897,9 @@
     },
     {
       "vulnerability": "CVE-2019-2762",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -759,7 +909,9 @@
     },
     {
       "vulnerability": "CVE-2020-2773",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -769,7 +921,9 @@
     },
     {
       "vulnerability": "CVE-2019-2999",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -779,7 +933,9 @@
     },
     {
       "vulnerability": "CVE-2018-3136",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -789,7 +945,9 @@
     },
     {
       "vulnerability": "CVE-2019-2786",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -799,7 +957,9 @@
     },
     {
       "vulnerability": "CVE-2020-14579",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -809,7 +969,9 @@
     },
     {
       "vulnerability": "CVE-2019-2933",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -819,7 +981,9 @@
     },
     {
       "vulnerability": "CVE-2020-14621",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/openjdk8@8.181.13-r0?os_name=alpine&os_version=3.8"
       ],
@@ -829,7 +993,9 @@
     },
     {
       "vulnerability": "CVE-2018-20346",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
       ],
@@ -839,7 +1005,9 @@
     },
     {
       "vulnerability": "CVE-2019-8457",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
       ],
@@ -849,7 +1017,9 @@
     },
     {
       "vulnerability": "CVE-2020-11655",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
       ],
@@ -859,7 +1029,9 @@
     },
     {
       "vulnerability": "CVE-2019-19242",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
       ],
@@ -869,7 +1041,9 @@
     },
     {
       "vulnerability": "CVE-2019-19244",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
       ],
@@ -879,7 +1053,9 @@
     },
     {
       "vulnerability": "CVE-2019-16168",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
       ],
@@ -889,7 +1065,9 @@
     },
     {
       "vulnerability": "CVE-2019-14697",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/musl@1.1.19-r10?os_name=alpine&os_version=3.8"
       ],
@@ -899,7 +1077,9 @@
     },
     {
       "vulnerability": "CVE-2018-14550",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/libpng@1.6.34-r1?os_name=alpine&os_version=3.8"
       ],
@@ -909,7 +1089,9 @@
     },
     {
       "vulnerability": "CVE-2018-14048",
-      "product": "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64",
+      "product": [
+        "pgk:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
       "subcomponents": [
         "pkg:alpine/libpng@1.6.34-r1?os_name=alpine&os_version=3.8"
       ],
