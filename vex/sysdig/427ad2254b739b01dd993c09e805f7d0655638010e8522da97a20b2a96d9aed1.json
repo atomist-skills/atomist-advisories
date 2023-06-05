@@ -1,7 +1,7 @@
 {
   "@context": "https://openvex.dev/ns",
   "@id": "https://openvex.dev/docs/sysdig/vex-427ad2254b739b01dd993c09e805f7d0655638010e8522da97a20b2a96d9aed1",
-  "author": "atomist/sysdig-integration@0.1.2",
+  "author": "atomist/sysdig-integration@0.1.5",
   "role": "Document Creator",
   "version": "1",
   "statements": [
