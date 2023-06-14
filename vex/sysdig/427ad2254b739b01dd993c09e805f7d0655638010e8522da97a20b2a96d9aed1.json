@@ -18,6 +18,42 @@
       "impact_statement": "Vulnerable package not loaded at runtime"
     },
     {
+      "vulnerability": "CVE-2022-23181",
+      "products": [
+        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
+      "subcomponents": [
+        "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55"
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_in_execute_path",
+      "impact_statement": "Vulnerable package not loaded at runtime"
+    },
+    {
+      "vulnerability": "CVE-2022-29885",
+      "products": [
+        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
+      "subcomponents": [
+        "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55"
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_in_execute_path",
+      "impact_statement": "Vulnerable package not loaded at runtime"
+    },
+    {
+      "vulnerability": "CVE-2022-34305",
+      "products": [
+        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
+      "subcomponents": [
+        "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55"
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_in_execute_path",
+      "impact_statement": "Vulnerable package not loaded at runtime"
+    },
+    {
       "vulnerability": "CVE-2022-45143",
       "products": [
         "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
@@ -37,6 +73,30 @@
       "subcomponents": [
         "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55",
         "pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.55"
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_in_execute_path",
+      "impact_statement": "Vulnerable package not loaded at runtime"
+    },
+    {
+      "vulnerability": "CVE-2022-42252",
+      "products": [
+        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
+      "subcomponents": [
+        "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55"
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_in_execute_path",
+      "impact_statement": "Vulnerable package not loaded at runtime"
+    },
+    {
+      "vulnerability": "CVE-2023-28708",
+      "products": [
+        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
+      "subcomponents": [
+        "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.55"
       ],
       "status": "not_affected",
       "justification": "vulnerable_code_not_in_execute_path",
