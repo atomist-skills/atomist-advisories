@@ -187,6 +187,30 @@
       "impact_statement": "Vulnerable package not loaded at runtime"
     },
     {
+      "vulnerability": "CVE-2019-8457",
+      "products": [
+        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
+      "subcomponents": [
+        "pkg:apk/alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_in_execute_path",
+      "impact_statement": "Vulnerable package not loaded at runtime"
+    },
+    {
+      "vulnerability": "CVE-2018-20346",
+      "products": [
+        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
+      ],
+      "subcomponents": [
+        "pkg:apk/alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
+      ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_in_execute_path",
+      "impact_statement": "Vulnerable package not loaded at runtime"
+    },
+    {
       "vulnerability": "CVE-2019-16168",
       "products": [
         "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
@@ -212,30 +236,6 @@
     },
     {
       "vulnerability": "CVE-2020-11655",
-      "products": [
-        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
-      ],
-      "subcomponents": [
-        "pkg:apk/alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
-      ],
-      "status": "not_affected",
-      "justification": "vulnerable_code_not_in_execute_path",
-      "impact_statement": "Vulnerable package not loaded at runtime"
-    },
-    {
-      "vulnerability": "CVE-2019-8457",
-      "products": [
-        "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
-      ],
-      "subcomponents": [
-        "pkg:apk/alpine/sqlite@3.24.0-r0?os_name=alpine&os_version=3.8"
-      ],
-      "status": "not_affected",
-      "justification": "vulnerable_code_not_in_execute_path",
-      "impact_statement": "Vulnerable package not loaded at runtime"
-    },
-    {
-      "vulnerability": "CVE-2018-20346",
       "products": [
         "pkg:docker/atomist/vulnapp@sha256:9c8a98c1f53866b3d8c121481424a78a9e9473334fd64ce29e7823dac9ea9c64"
       ],
